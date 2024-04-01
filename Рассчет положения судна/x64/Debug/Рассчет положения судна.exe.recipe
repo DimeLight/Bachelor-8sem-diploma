@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>G:\Вся хуйня\Диплом\repos\Рассчет положения судна\x64\Debug\Рассчет положения судна.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls>
+    <SatelliteDll>
+      <FullPath>G:\Вся хуйня\Диплом\repos\Рассчет положения судна\Рассчет положения судна\x64\Debug\ru\Рассчет положения судна.resources.dll</FullPath>
+    </SatelliteDll>
+  </SatelliteDlls>
+  <NonRecipeFileRefs />
+</Project>
